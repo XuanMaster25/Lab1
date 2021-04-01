@@ -1,0 +1,15 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "UI Tinder",
+  "main": "navigation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node navigation.js"
+  },
+  "keywords": [
+    "25"
+  ],
+  "author": "Hà Xuân",
+  "license": "ISC"
+}
